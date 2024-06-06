@@ -4,7 +4,6 @@ git commit -m 'new message'
 git push origin main
 
 git worktree add /tmp/homepage gh-pages
-npm run build
 rm -rf /tmp/homepage/* # this won't delete the .git directory
 cp -rp dist/* /tmp/homepage/
 cd /tmp/homepage
