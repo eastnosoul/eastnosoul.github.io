@@ -1,6 +1,6 @@
 git add -A
 git commit -m 'new message'
-git pull
+# git pull
 git push origin main
 
 git worktree add /tmp/homepage gh-pages
