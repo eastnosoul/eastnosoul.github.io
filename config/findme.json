@@ -1,0 +1,12 @@
+[
+  {
+    "href": "mail:eastnosoul@outlook.com",
+    "desc": "E-mail",
+    "icon": "neko-icon icon-email"
+  },
+  {
+    "href": "https://github.com/eastnosoul/",
+    "desc": "Github",
+    "icon": "neko-icon icon-github"
+  }
+]
