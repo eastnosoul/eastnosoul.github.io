@@ -118,7 +118,6 @@ function getMsg() {
     "敬畏之心！",
     "赞美之心！",
     "我很好奇！",
-    "*舒缓的现代音乐*",
   ];
   var r = random(0, slogan.length - 1);
   $("#slogan").html(slogan[r])
